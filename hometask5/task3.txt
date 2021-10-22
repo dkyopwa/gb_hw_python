@@ -1,0 +1,10 @@
+Ivanov  30201
+Petrov  10000
+Sidorov 20000
+Derev   20100
+Drob    55555
+Sokolov 12010
+Prichka 52000
+Philin  12000
+Pushkin 22222
+Table   10202
